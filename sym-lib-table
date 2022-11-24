@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name f-91w-rescue)(type Legacy)(uri ${KIPRJMOD}/f-91w-rescue.lib)(options "")(descr ""))
+  (lib (name f-91w1)(type Legacy)(uri ${KIPRJMOD}/f-91w.lib)(options "")(descr ""))
+)
